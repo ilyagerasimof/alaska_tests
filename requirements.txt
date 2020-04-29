@@ -1,0 +1,4 @@
+faker
+pytest
+requests
+jsonpath
